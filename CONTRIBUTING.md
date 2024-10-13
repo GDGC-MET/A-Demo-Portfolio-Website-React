@@ -1,4 +1,4 @@
-# Contributing to Finderr Propert Website
+# Contributing to demo portfolio website
 
 Thank you for considering contributing to the Finderr Propert Website! We welcome all kinds of contributions that help improve the project.
 
@@ -16,11 +16,11 @@ Start by forking the repository to your GitHub account.
 Once you've forked the repository, clone it to your local machine.
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git https://github.com/yourusername/A-Demo-Portfolio-Website-React.git
 ```
 ### 3. Navigate to the Project Directory
 ```bash
-cd weather-app
+cd A-Demo-Portfolio-Website-React
 ```
 ### 4.Create a Branch
 

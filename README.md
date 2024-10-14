@@ -8,18 +8,20 @@ Welcome to **A Demo Portfolio Website**! This is a simple demo portfolio website
 - **Modern UI**: Styled with Tailwind CSS for a clean and modern look.
 - **Dynamic Content**: Use React to manage and display content dynamically.
 - **Easy Navigation**: Smooth scrolling and intuitive navigation for a user-friendly experience.
+-**Various Sections**: Included various sections such as About, Projects, Skills, Award, Testimonials, Contact etc.
 
 ## Technologies Used
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
+- [React Icons]: A icon rich library provided by React.
 
 ## Installation
 
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/A-Demo-Portfolio-Website-React.git
+git clone https://github.com/AryanJ2004/A-Demo-Portfolio-Website-React.git
 cd A-Demo-Portfolio-Website-React
 npm install
 ```

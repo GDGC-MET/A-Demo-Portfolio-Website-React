@@ -14,7 +14,7 @@ Welcome to **A Demo Portfolio Website**! This is a simple demo portfolio website
 
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
-- [React Icons]: A icon rich library provided by React.
+- React Icons: A icon rich library provided by React.
 
 ## Installation
 
